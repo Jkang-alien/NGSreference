@@ -1,0 +1,20 @@
+Illumina
+https://www.illuminakk.co.jp/ischool/sapac/login.php
+GDA 유전체 데이터 분석
+https://www.youtube.com/channel/UClphpPaMJK9D2Dh6Sd_rCmA/playlists
+IGV
+https://www.youtube.com/playlist?list=PLstv3yK4hQdDKWwCm3TkvtUGqNRf1UFpZ
+TCGA symposium
+https://www.youtube.com/playlist?list=PL1ay9ko4A8smYYuzNXMoYBrQu4btDP-a_
+Sequence Variant Nomenclature
+https://varnomen.hgvs.org/
+General Variant Interpretation Resources
+https://www.youtube.com/playlist?list=PLrik3QIJ5Zvshkwr2lQWA6TJ7LEkz7EXB
+ClinGen Resource (https://www.clinicalgenome.org/)
+https://www.youtube.com/channel/UCsn4nEVUTpVQz70rClgMMsQ
+AMP/ACMG/CAP Cancer Sequence Variant Guidelines
+https://doi.org/10.1016/j.jmoldx.2016.10.002
+CIViC
+https://www.youtube.com/channel/UCtZ14M7ZNmMDivSJzaHO8BQ
+OncoKB: A Precision Oncology Knowledge Base
+https://ascopubs.org/doi/full/10.1200/PO.17.00011
