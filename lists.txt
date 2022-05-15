@@ -14,7 +14,15 @@ ClinGen Resource (https://www.clinicalgenome.org/)
 https://www.youtube.com/channel/UCsn4nEVUTpVQz70rClgMMsQ
 AMP/ACMG/CAP Cancer Sequence Variant Guidelines
 https://doi.org/10.1016/j.jmoldx.2016.10.002
+Guidelines for Validation of Next-Generation Sequencing–Based Oncology Panels
+https://doi.org/10.1016/j.jmoldx.2017.01.011
+Recommendations for the use of next-generation sequencing (NGS) for patients with metastatic cancers
+https://doi.org/10.1016/j.annonc.2020.07.014
+Precision Medicine CAP
+https://www.cap.org/member-resources/precision-medicine
 CIViC
 https://www.youtube.com/channel/UCtZ14M7ZNmMDivSJzaHO8BQ
 OncoKB: A Precision Oncology Knowledge Base
 https://ascopubs.org/doi/full/10.1200/PO.17.00011
+Curating Clinically Relevant Transcripts for the Interpretation of Sequence Variants
+DOI: 10.1016/j.jmoldx.2018.06.005
