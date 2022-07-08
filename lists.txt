@@ -18,3 +18,15 @@ CIViC
 https://www.youtube.com/channel/UCtZ14M7ZNmMDivSJzaHO8BQ
 OncoKB: A Precision Oncology Knowledge Base
 https://ascopubs.org/doi/full/10.1200/PO.17.00011
+Biostarhandbook
+https://www.biostarhandbook.com/complete-genomes.html
+Canadian Bioinformatics Workshop
+https://bioinformaticsdotca.github.io/
+Bioinformatics Algorithms (Compeau & Pevzner)
+https://stepik.org/course/55789/promo
+Aaron Quinlan Channel
+https://www.youtube.com/c/AaronQuinlanCompBio/videos
+A Primer for Computational Biology
+https://open.oregonstate.education/computationalbiology/
+Sandbox.bio
+https://sandbox.bio/
